@@ -1,2 +1,2 @@
 ### Website
-https://heckoa.github.io.
+https://heckoa.github.io
